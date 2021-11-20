@@ -13,18 +13,72 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2021-11-19T21:46:46.220-08:00
-  initializedAtString: 2021-11-19T21:46:00.249-08:00
+  lastUpdatedAtString: 2021-11-19T22:32:08.831-08:00
+  initializedAtString: 2021-11-19T22:32:06.557-08:00
   entries:
-  - path: birdGame\Assets\Animations\birdAnimations.meta
-    fullPath: C:\Users\yolod\Desktop\GitHub\birdGame\birdGame\Assets\Animations\birdAnimations.meta
-    projectPath: Assets\Animations\birdAnimations.meta
+  - path: birdGame\Assets\Animations\birdAnimations\defaultBirdAnimation\defaultBirdAnimation.anim
+    fullPath: C:\Users\yolod\Desktop\GitHub\birdGame\birdGame\Assets\Animations\birdAnimations\defaultBirdAnimation\defaultBirdAnimation.anim
+    projectPath: Assets\Animations\birdAnimations\defaultBirdAnimation\defaultBirdAnimation.anim
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: birdGame\Assets\Animations\birdAnimations\defaultBirdAnimation.meta
-    fullPath: C:\Users\yolod\Desktop\GitHub\birdGame\birdGame\Assets\Animations\birdAnimations\defaultBirdAnimation.meta
-    projectPath: Assets\Animations\birdAnimations\defaultBirdAnimation.meta
+  - path: birdGame\Assets\Animations\birdAnimations\defaultBirdAnimation\defaultBirdAnimation.anim.meta
+    fullPath: C:\Users\yolod\Desktop\GitHub\birdGame\birdGame\Assets\Animations\birdAnimations\defaultBirdAnimation\defaultBirdAnimation.anim.meta
+    projectPath: Assets\Animations\birdAnimations\defaultBirdAnimation\defaultBirdAnimation.anim.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: birdGame\Assets\Animations\birdAnimations\defaultBirdAnimation\Player.controller
+    fullPath: C:\Users\yolod\Desktop\GitHub\birdGame\birdGame\Assets\Animations\birdAnimations\defaultBirdAnimation\Player.controller
+    projectPath: Assets\Animations\birdAnimations\defaultBirdAnimation\Player.controller
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: birdGame\Assets\Animations\birdAnimations\defaultBirdAnimation\Player.controller.meta
+    fullPath: C:\Users\yolod\Desktop\GitHub\birdGame\birdGame\Assets\Animations\birdAnimations\defaultBirdAnimation\Player.controller.meta
+    projectPath: Assets\Animations\birdAnimations\defaultBirdAnimation\Player.controller.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: birdGame\Assets\Scenes\SampleScene.unity
+    fullPath: C:\Users\yolod\Desktop\GitHub\birdGame\birdGame\Assets\Scenes\SampleScene.unity
+    projectPath: Assets\Scenes\SampleScene.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: birdGame\Assets\Sprites\Birds\DefaultBird\Bird1.png
+    fullPath: C:\Users\yolod\Desktop\GitHub\birdGame\birdGame\Assets\Sprites\Birds\DefaultBird\Bird1.png
+    projectPath: Assets\Sprites\Birds\DefaultBird\Bird1.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: birdGame\Assets\Sprites\Birds\DefaultBird\Bird1.png.meta
+    fullPath: C:\Users\yolod\Desktop\GitHub\birdGame\birdGame\Assets\Sprites\Birds\DefaultBird\Bird1.png.meta
+    projectPath: Assets\Sprites\Birds\DefaultBird\Bird1.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: birdGame\Assets\Sprites\Birds\DefaultBird\Bird2.png
+    fullPath: C:\Users\yolod\Desktop\GitHub\birdGame\birdGame\Assets\Sprites\Birds\DefaultBird\Bird2.png
+    projectPath: Assets\Sprites\Birds\DefaultBird\Bird2.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: birdGame\Assets\Sprites\Birds\DefaultBird\Bird2.png.meta
+    fullPath: C:\Users\yolod\Desktop\GitHub\birdGame\birdGame\Assets\Sprites\Birds\DefaultBird\Bird2.png.meta
+    projectPath: Assets\Sprites\Birds\DefaultBird\Bird2.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: birdGame\Assets\Sprites\Birds\DefaultBird\Bird3.png
+    fullPath: C:\Users\yolod\Desktop\GitHub\birdGame\birdGame\Assets\Sprites\Birds\DefaultBird\Bird3.png
+    projectPath: Assets\Sprites\Birds\DefaultBird\Bird3.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: birdGame\Assets\Sprites\Birds\DefaultBird\Bird3.png.meta
+    fullPath: C:\Users\yolod\Desktop\GitHub\birdGame\birdGame\Assets\Sprites\Birds\DefaultBird\Bird3.png.meta
+    projectPath: Assets\Sprites\Birds\DefaultBird\Bird3.png.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -34,54 +88,108 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: birdGame\Library\Artifacts\08\08c96301f6d3cf6a711d9e33909ba3c6
-    fullPath: C:\Users\yolod\Desktop\GitHub\birdGame\birdGame\Library\Artifacts\08\08c96301f6d3cf6a711d9e33909ba3c6
-    projectPath: Library\Artifacts\08\08c96301f6d3cf6a711d9e33909ba3c6
+  - path: birdGame\Library\Artifacts\20\205b0a853437d5fb1177c00f5ca8d142
+    fullPath: C:\Users\yolod\Desktop\GitHub\birdGame\birdGame\Library\Artifacts\20\205b0a853437d5fb1177c00f5ca8d142
+    projectPath: Library\Artifacts\20\205b0a853437d5fb1177c00f5ca8d142
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: birdGame\Library\Artifacts\3f\3f2f7bc4122dd92424cd7c744f58768b
-    fullPath: C:\Users\yolod\Desktop\GitHub\birdGame\birdGame\Library\Artifacts\3f\3f2f7bc4122dd92424cd7c744f58768b
-    projectPath: Library\Artifacts\3f\3f2f7bc4122dd92424cd7c744f58768b
+  - path: birdGame\Library\Artifacts\2c\2c28cfa8d3b6bd910b03ce8f9fc20915
+    fullPath: C:\Users\yolod\Desktop\GitHub\birdGame\birdGame\Library\Artifacts\2c\2c28cfa8d3b6bd910b03ce8f9fc20915
+    projectPath: Library\Artifacts\2c\2c28cfa8d3b6bd910b03ce8f9fc20915
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: birdGame\Library\Artifacts\46\46b35aeb15e30b642d1a550d9aadf6b0
-    fullPath: C:\Users\yolod\Desktop\GitHub\birdGame\birdGame\Library\Artifacts\46\46b35aeb15e30b642d1a550d9aadf6b0
-    projectPath: Library\Artifacts\46\46b35aeb15e30b642d1a550d9aadf6b0
+  - path: birdGame\Library\Artifacts\36\362a1c179d1149c746d9ec67792de41b
+    fullPath: C:\Users\yolod\Desktop\GitHub\birdGame\birdGame\Library\Artifacts\36\362a1c179d1149c746d9ec67792de41b
+    projectPath: Library\Artifacts\36\362a1c179d1149c746d9ec67792de41b
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: birdGame\Library\Artifacts\87\870462c490e8f8ebd50893d0e04b1ecd
-    fullPath: C:\Users\yolod\Desktop\GitHub\birdGame\birdGame\Library\Artifacts\87\870462c490e8f8ebd50893d0e04b1ecd
-    projectPath: Library\Artifacts\87\870462c490e8f8ebd50893d0e04b1ecd
+  - path: birdGame\Library\Artifacts\3f\3fde39a0ac32981cd308c39f571c105a
+    fullPath: C:\Users\yolod\Desktop\GitHub\birdGame\birdGame\Library\Artifacts\3f\3fde39a0ac32981cd308c39f571c105a
+    projectPath: Library\Artifacts\3f\3fde39a0ac32981cd308c39f571c105a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: birdGame\Library\Artifacts\40\40e50820ddf6f5b03ee36c7f34025072
+    fullPath: C:\Users\yolod\Desktop\GitHub\birdGame\birdGame\Library\Artifacts\40\40e50820ddf6f5b03ee36c7f34025072
+    projectPath: Library\Artifacts\40\40e50820ddf6f5b03ee36c7f34025072
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: birdGame\Library\Artifacts\8e\8e97e412d63895951cb8ed83489949b7
-    fullPath: C:\Users\yolod\Desktop\GitHub\birdGame\birdGame\Library\Artifacts\8e\8e97e412d63895951cb8ed83489949b7
-    projectPath: Library\Artifacts\8e\8e97e412d63895951cb8ed83489949b7
+  - path: birdGame\Library\Artifacts\58\5883ec902dc552a38ff085d36f45ac32
+    fullPath: C:\Users\yolod\Desktop\GitHub\birdGame\birdGame\Library\Artifacts\58\5883ec902dc552a38ff085d36f45ac32
+    projectPath: Library\Artifacts\58\5883ec902dc552a38ff085d36f45ac32
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: birdGame\Library\Artifacts\c4\c43d260a898c7e847dad5050232662e4
-    fullPath: C:\Users\yolod\Desktop\GitHub\birdGame\birdGame\Library\Artifacts\c4\c43d260a898c7e847dad5050232662e4
-    projectPath: Library\Artifacts\c4\c43d260a898c7e847dad5050232662e4
+  - path: birdGame\Library\Artifacts\83\83abdb20b1024ae9a72cf9f46dd6344a
+    fullPath: C:\Users\yolod\Desktop\GitHub\birdGame\birdGame\Library\Artifacts\83\83abdb20b1024ae9a72cf9f46dd6344a
+    projectPath: Library\Artifacts\83\83abdb20b1024ae9a72cf9f46dd6344a
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
+  - path: birdGame\Library\Artifacts\a1\a11bbf1d48e8e172c9ec0d1d09750ca0
+    fullPath: C:\Users\yolod\Desktop\GitHub\birdGame\birdGame\Library\Artifacts\a1\a11bbf1d48e8e172c9ec0d1d09750ca0
+    projectPath: Library\Artifacts\a1\a11bbf1d48e8e172c9ec0d1d09750ca0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: birdGame\Library\Artifacts\a6\a63982dcc551534df67e8f012b4c32e4
+    fullPath: C:\Users\yolod\Desktop\GitHub\birdGame\birdGame\Library\Artifacts\a6\a63982dcc551534df67e8f012b4c32e4
+    projectPath: Library\Artifacts\a6\a63982dcc551534df67e8f012b4c32e4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: birdGame\Library\Artifacts\d4\d4fb3aa8cbd333f813d6376b2be87c5a
+    fullPath: C:\Users\yolod\Desktop\GitHub\birdGame\birdGame\Library\Artifacts\d4\d4fb3aa8cbd333f813d6376b2be87c5a
+    projectPath: Library\Artifacts\d4\d4fb3aa8cbd333f813d6376b2be87c5a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: birdGame\Library\Artifacts\d5\d53b42cff67e95f0f0703ccbe14f2203
+    fullPath: C:\Users\yolod\Desktop\GitHub\birdGame\birdGame\Library\Artifacts\d5\d53b42cff67e95f0f0703ccbe14f2203
+    projectPath: Library\Artifacts\d5\d53b42cff67e95f0f0703ccbe14f2203
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: birdGame\Library\Artifacts\e0\e0b88e15d747efc77a6237a7e1877d01
+    fullPath: C:\Users\yolod\Desktop\GitHub\birdGame\birdGame\Library\Artifacts\e0\e0b88e15d747efc77a6237a7e1877d01
+    projectPath: Library\Artifacts\e0\e0b88e15d747efc77a6237a7e1877d01
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: birdGame\Library\Artifacts\e9\e964352929fbc938a25a19d0b338007e
+    fullPath: C:\Users\yolod\Desktop\GitHub\birdGame\birdGame\Library\Artifacts\e9\e964352929fbc938a25a19d0b338007e
+    projectPath: Library\Artifacts\e9\e964352929fbc938a25a19d0b338007e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: birdGame\Library\Artifacts\ff\ffd8914e0ccda982a0c31023555f979d
+    fullPath: C:\Users\yolod\Desktop\GitHub\birdGame\birdGame\Library\Artifacts\ff\ffd8914e0ccda982a0c31023555f979d
+    projectPath: Library\Artifacts\ff\ffd8914e0ccda982a0c31023555f979d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: birdGame\Library\CurrentLayout-default.dwlt
+    fullPath: C:\Users\yolod\Desktop\GitHub\birdGame\birdGame\Library\CurrentLayout-default.dwlt
+    projectPath: Library\CurrentLayout-default.dwlt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: birdGame\Library\EditorInstance.json
     fullPath: C:\Users\yolod\Desktop\GitHub\birdGame\birdGame\Library\EditorInstance.json
     projectPath: Library\EditorInstance.json
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: birdGame\Library\gfu\cache\gitlocks.yaml
-    fullPath: C:\Users\yolod\Desktop\GitHub\birdGame\birdGame\Library\gfu\cache\gitlocks.yaml
-    projectPath: Library\gfu\cache\gitlocks.yaml
+  - path: birdGame\Library\gfu\cache\branches.yaml
+    fullPath: C:\Users\yolod\Desktop\GitHub\birdGame\birdGame\Library\gfu\cache\branches.yaml
+    projectPath: Library\gfu\cache\branches.yaml
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 1
+    workTreeStatus: 1
   - path: birdGame\Library\gfu\cache\gitstatusentries.yaml
     fullPath: C:\Users\yolod\Desktop\GitHub\birdGame\birdGame\Library\gfu\cache\gitstatusentries.yaml
     projectPath: Library\gfu\cache\gitstatusentries.yaml
@@ -97,6 +205,18 @@ MonoBehaviour:
   - path: birdGame\Library\gfu\cache\repoinfo.yaml
     fullPath: C:\Users\yolod\Desktop\GitHub\birdGame\birdGame\Library\gfu\cache\repoinfo.yaml
     projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: birdGame\Library\InspectorExpandedItems.asset
+    fullPath: C:\Users\yolod\Desktop\GitHub\birdGame\birdGame\Library\InspectorExpandedItems.asset
+    projectPath: Library\InspectorExpandedItems.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: birdGame\Library\LastSceneManagerSetup.txt
+    fullPath: C:\Users\yolod\Desktop\GitHub\birdGame\birdGame\Library\LastSceneManagerSetup.txt
+    projectPath: Library\LastSceneManagerSetup.txt
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -22624,9 +22744,21 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: birdGame\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
-    fullPath: C:\Users\yolod\Desktop\GitHub\birdGame\birdGame\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+  - path: birdGame\Library\ShaderCache\1\1715ffbdb05b7f8922fca2093f5bba67.bin
+    fullPath: C:\Users\yolod\Desktop\GitHub\birdGame\birdGame\Library\ShaderCache\1\1715ffbdb05b7f8922fca2093f5bba67.bin
+    projectPath: Library\ShaderCache\1\1715ffbdb05b7f8922fca2093f5bba67.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: birdGame\Library\ShaderCache\3\3b632e496ed4153abb90ba5339a1c760.bin
+    fullPath: C:\Users\yolod\Desktop\GitHub\birdGame\birdGame\Library\ShaderCache\3\3b632e496ed4153abb90ba5339a1c760.bin
+    projectPath: Library\ShaderCache\3\3b632e496ed4153abb90ba5339a1c760.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: birdGame\Library\ShaderCache\EditorEncounteredVariants
+    fullPath: C:\Users\yolod\Desktop\GitHub\birdGame\birdGame\Library\ShaderCache\EditorEncounteredVariants
+    projectPath: Library\ShaderCache\EditorEncounteredVariants
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -22640,20 +22772,20 @@ MonoBehaviour:
     fullPath: C:\Users\yolod\Desktop\GitHub\birdGame\birdGame\Logs\AssetImportWorker0.log
     projectPath: Logs\AssetImportWorker0.log
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: birdGame\Logs\AssetImportWorker0-prev.log
     fullPath: C:\Users\yolod\Desktop\GitHub\birdGame\birdGame\Logs\AssetImportWorker0-prev.log
     projectPath: Logs\AssetImportWorker0-prev.log
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    indexStatus: 1
+    workTreeStatus: 1
   - path: birdGame\Logs\shadercompiler-AssetImportWorker0.log
     fullPath: C:\Users\yolod\Desktop\GitHub\birdGame\birdGame\Logs\shadercompiler-AssetImportWorker0.log
     projectPath: Logs\shadercompiler-AssetImportWorker0.log
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: birdGame\Logs\shadercompiler-UnityShaderCompiler.exe0.log
     fullPath: C:\Users\yolod\Desktop\GitHub\birdGame\birdGame\Logs\shadercompiler-UnityShaderCompiler.exe0.log
     projectPath: Logs\shadercompiler-UnityShaderCompiler.exe0.log
@@ -22670,14 +22802,14 @@ MonoBehaviour:
     fullPath: C:\Users\yolod\Desktop\GitHub\birdGame\birdGame\Logs\shadercompiler-UnityShaderCompiler.exe10.log
     projectPath: Logs\shadercompiler-UnityShaderCompiler.exe10.log
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: birdGame\Logs\shadercompiler-UnityShaderCompiler.exe11.log
     fullPath: C:\Users\yolod\Desktop\GitHub\birdGame\birdGame\Logs\shadercompiler-UnityShaderCompiler.exe11.log
     projectPath: Logs\shadercompiler-UnityShaderCompiler.exe11.log
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: birdGame\Logs\shadercompiler-UnityShaderCompiler.exe2.log
     fullPath: C:\Users\yolod\Desktop\GitHub\birdGame\birdGame\Logs\shadercompiler-UnityShaderCompiler.exe2.log
     projectPath: Logs\shadercompiler-UnityShaderCompiler.exe2.log
@@ -22694,59 +22826,41 @@ MonoBehaviour:
     fullPath: C:\Users\yolod\Desktop\GitHub\birdGame\birdGame\Logs\shadercompiler-UnityShaderCompiler.exe4.log
     projectPath: Logs\shadercompiler-UnityShaderCompiler.exe4.log
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: birdGame\Logs\shadercompiler-UnityShaderCompiler.exe5.log
     fullPath: C:\Users\yolod\Desktop\GitHub\birdGame\birdGame\Logs\shadercompiler-UnityShaderCompiler.exe5.log
     projectPath: Logs\shadercompiler-UnityShaderCompiler.exe5.log
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: birdGame\Logs\shadercompiler-UnityShaderCompiler.exe6.log
     fullPath: C:\Users\yolod\Desktop\GitHub\birdGame\birdGame\Logs\shadercompiler-UnityShaderCompiler.exe6.log
     projectPath: Logs\shadercompiler-UnityShaderCompiler.exe6.log
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: birdGame\Logs\shadercompiler-UnityShaderCompiler.exe7.log
     fullPath: C:\Users\yolod\Desktop\GitHub\birdGame\birdGame\Logs\shadercompiler-UnityShaderCompiler.exe7.log
     projectPath: Logs\shadercompiler-UnityShaderCompiler.exe7.log
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: birdGame\Logs\shadercompiler-UnityShaderCompiler.exe8.log
     fullPath: C:\Users\yolod\Desktop\GitHub\birdGame\birdGame\Logs\shadercompiler-UnityShaderCompiler.exe8.log
     projectPath: Logs\shadercompiler-UnityShaderCompiler.exe8.log
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: birdGame\Logs\shadercompiler-UnityShaderCompiler.exe9.log
     fullPath: C:\Users\yolod\Desktop\GitHub\birdGame\birdGame\Logs\shadercompiler-UnityShaderCompiler.exe9.log
     projectPath: Logs\shadercompiler-UnityShaderCompiler.exe9.log
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: birdGame\Temp\Assembly-CSharp-Editor-firstpass.dll.hash
-    fullPath: C:\Users\yolod\Desktop\GitHub\birdGame\birdGame\Temp\Assembly-CSharp-Editor-firstpass.dll.hash
-    projectPath: Temp\Assembly-CSharp-Editor-firstpass.dll.hash
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: birdGame\Temp\CompilationLog.txt
-    fullPath: C:\Users\yolod\Desktop\GitHub\birdGame\birdGame\Temp\CompilationLog.txt
-    projectPath: Temp\CompilationLog.txt
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: birdGame\Temp\UnityLockfile
     fullPath: C:\Users\yolod\Desktop\GitHub\birdGame\birdGame\Temp\UnityLockfile
     projectPath: Temp\UnityLockfile
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: birdGame\Temp\UnityTempFile-45027c3570a9a1940b831a1ff2f877d6
-    fullPath: C:\Users\yolod\Desktop\GitHub\birdGame\birdGame\Temp\UnityTempFile-45027c3570a9a1940b831a1ff2f877d6
-    projectPath: Temp\UnityTempFile-45027c3570a9a1940b831a1ff2f877d6
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
